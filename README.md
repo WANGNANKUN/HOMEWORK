@@ -2,26 +2,26 @@
 homework
 
 文件及文件夹描述：
- 文件Circuits Exquisite Albar-Tinkercad...为上课时提交的小车电路（代码似乎写的不对）
- 文件夹carclass为补交的小车代码
- 文件wangnankun-Tinkercad为7.4日作业
- 文件夹7.4homework之含一个电路图(因为作业之前已经交过了)
- 文件夹morse7.2为补交的7.2日作业
- 文件夹mores7.5为最终作业
+ 文件Circuits Exquisite Albar-Tinkercad...为上课时提交的小车电路（代码似乎写的不对）；
+ 文件夹carclass为补交的小车代码；
+ 文件wangnankun-Tinkercad为7.4日作业；
+ 文件夹7.4homework之含一个电路图(因为作业之前已经交过了)；
+ 文件夹morse7.2为补交的7.2日作业；
+ 文件夹mores7.5为最终作业；
  
 
 一 7.2日（入门）
 
- a为什么学习开源硬件
-   （为了大学玩的快乐）
+ a为什么学习开源硬件；
 
- b开源硬件的好处有哪些
+
+ b开源硬件的好处有哪些；
    （头脑风暴 资源共享）
  
- c看了很多很有趣的发明创造
+ c看了很多很有趣的发明创造；
     （老师自拍强无敌）
  
- d学习了常用网站有哪些
+ d学习了常用网站有哪些；
  （www.ardino.cc
     github
     fritzing.org）
